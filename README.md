@@ -15,3 +15,5 @@ Exemplos
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
 ![image](https://github.com/user-attachments/assets/eb446fcb-765f-4c0b-83d4-bc5554a91f9b)
+
+![sd](https://github.com/user-attachments/assets/57644ba4-df9e-485a-867f-4c55675b06b4)
